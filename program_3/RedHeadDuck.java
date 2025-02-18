@@ -1,4 +1,3 @@
-// RedHead Duck (RHD) can fly and quack
 public class RedHeadDuck extends Duck implements Quackable, Flyable {
     @Override
     public void quack() {

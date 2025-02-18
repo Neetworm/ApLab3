@@ -1,4 +1,3 @@
-// Wooden Duck (WD) is mute and does not fly
 public class WoodenDuck extends Duck {
     @Override
     public void swim() {

@@ -1,4 +1,4 @@
-// Main class to test the ducks
+// Main class for testing.
 public class DuckGame {
     public static void main(String[] args) {
         RubberDuck rubberDuck = new RubberDuck();
