@@ -1,4 +1,3 @@
-// Main class to test the behavior
 public class Main {
     public static void main(String[] args) {
         Arjun arjun = new Arjun();

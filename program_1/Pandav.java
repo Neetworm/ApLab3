@@ -1,4 +1,3 @@
-// Pandav class
 public class Pandav extends Bharatvanshi {
     @Override
     public void fight() {

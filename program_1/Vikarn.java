@@ -1,4 +1,3 @@
-// Vikarn class (special Kaurav)
 public class Vikarn extends Kaurav {
     @Override
     public void obey() {

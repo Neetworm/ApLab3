@@ -1,4 +1,4 @@
-// Duryodhan class
+
 public class Duryodhan extends Kaurav {
     @Override
     public void obey() {

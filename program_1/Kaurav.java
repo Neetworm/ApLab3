@@ -1,4 +1,3 @@
-// Kaurav class
 public class Kaurav extends Bharatvanshi {
     @Override
     public void fight() {

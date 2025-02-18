@@ -1,4 +1,3 @@
-// Arjun class
 public class Arjun extends Pandav {
     @Override
     public void kind() {
